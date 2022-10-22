@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akpelu
+- 👋 Hi, I’m @Progress
 - 👀 I’m interested in Machine Leaning
 - 🌱 I’m currently learning the Python, Scikit and Seaborn
 - 💞️ I’m looking to collaborate on any Data Science project
